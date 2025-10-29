@@ -7,3 +7,5 @@ If a player deletes their toon while you are offline, Global Friends List will t
 
 When global mode is turned on for that toon, that toon will have access to your Global Friends List.
 **THIS SETTING IS OFF BY DEFAULT AND WILL NEED TO BE TURNED ON FOR EACH TOON**
+
+This is a copy of Lexie's latest version that is now gone.
